@@ -1,6 +1,6 @@
 # redblack_tree
 
-**redblack_ 트리를 직접 구현하였습니다
+## redblack_ 트리를 직접 구현하였습니다
 
 구현언어는
 * python
