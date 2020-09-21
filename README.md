@@ -6,7 +6,8 @@
 * python
 * c++
 
-메소드는 3종류가 있습니다.
+메소드는 4종류가 있습니다.
 * insert()
 * delete()
 * search()
+* traverse()
